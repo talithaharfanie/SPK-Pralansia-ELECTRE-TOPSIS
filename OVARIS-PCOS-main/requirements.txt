@@ -1,6 +1,5 @@
 streamlit
 pandas
 numpy
-joblib
-lightgbm
-scikit-learn
+reportlab
+openpyxl
